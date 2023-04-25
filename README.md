@@ -8,4 +8,4 @@ Run BSolver.UI.exe and click to choose the blocks provided by the game, and when
 
 ## Demo Video
 
-<img src="bsolver.gif" alt="Demo Video" width="520" height="242">
+<img src="bsolver.gif" alt="Demo Video">
