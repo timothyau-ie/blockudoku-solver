@@ -1,6 +1,8 @@
 # Blockudoku Solver
-An AI solver of the popular mobile game <a href="https://blockudoku.easybrain.com/hc/en-us/articles/360015910737-About-the-game">blockudoku</a> implemented in C# & WinForm.
+An AI solver of the popular mobile game blockudoku implemented in C# & WinForm.
 Old school AI involved: Heuristics, Genetic Algorithm.
+
+The game itself (not the solver): https://blockudoku.easybrain.com/hc/en-us/articles/360015910737-About-the-game
 
 ## How to Use
 
