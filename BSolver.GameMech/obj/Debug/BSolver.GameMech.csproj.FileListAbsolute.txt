@@ -1,0 +1,6 @@
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\bin\Debug\BSolver.GameMech.dll
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\bin\Debug\BSolver.GameMech.pdb
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\obj\Debug\BSolver.GameMech.csproj.CoreCompileInputs.cache
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\obj\Debug\BSolver.GameMech.dll
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\obj\Debug\BSolver.GameMech.pdb
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\obj\Debug\BSolver.GameMech.csprojAssemblyReference.cache

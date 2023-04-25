@@ -1,0 +1,13 @@
+C:\Working\Blockudoku\BSolver\BSolver.UI\bin\Release\BSolver.UI.exe.config
+C:\Working\Blockudoku\BSolver\BSolver.UI\bin\Release\BSolver.UI.exe
+C:\Working\Blockudoku\BSolver\BSolver.UI\bin\Release\BSolver.UI.pdb
+C:\Working\Blockudoku\BSolver\BSolver.UI\bin\Release\BSolver.GameMech.dll
+C:\Working\Blockudoku\BSolver\BSolver.UI\bin\Release\BSolver.GameMech.pdb
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Release\BSolver.UI.csprojAssemblyReference.cache
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Release\BSolver.UI.Form1.resources
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Release\BSolver.UI.Properties.Resources.resources
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Release\BSolver.UI.csproj.GenerateResource.cache
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Release\BSolver.UI.csproj.CoreCompileInputs.cache
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Release\BSolver.UI.csproj.CopyComplete
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Release\BSolver.UI.exe
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Release\BSolver.UI.pdb

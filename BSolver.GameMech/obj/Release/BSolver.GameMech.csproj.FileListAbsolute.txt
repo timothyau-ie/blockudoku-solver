@@ -1,0 +1,5 @@
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\bin\Release\BSolver.GameMech.dll
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\bin\Release\BSolver.GameMech.pdb
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\obj\Release\BSolver.GameMech.csproj.CoreCompileInputs.cache
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\obj\Release\BSolver.GameMech.dll
+C:\Working\Blockudoku\BSolver\BSolver.GameMech\obj\Release\BSolver.GameMech.pdb

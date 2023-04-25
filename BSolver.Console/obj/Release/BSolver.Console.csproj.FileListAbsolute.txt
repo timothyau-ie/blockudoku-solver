@@ -1,0 +1,10 @@
+C:\Working\Blockudoku\BSolver\BSolver.Console\bin\Release\BSolver.Console.exe.config
+C:\Working\Blockudoku\BSolver\BSolver.Console\bin\Release\BSolver.Console.exe
+C:\Working\Blockudoku\BSolver\BSolver.Console\bin\Release\BSolver.Console.pdb
+C:\Working\Blockudoku\BSolver\BSolver.Console\bin\Release\BSolver.GameMech.dll
+C:\Working\Blockudoku\BSolver\BSolver.Console\bin\Release\BSolver.GameMech.pdb
+C:\Working\Blockudoku\BSolver\BSolver.Console\obj\Release\BSolver.Console.csprojAssemblyReference.cache
+C:\Working\Blockudoku\BSolver\BSolver.Console\obj\Release\BSolver.Console.csproj.CoreCompileInputs.cache
+C:\Working\Blockudoku\BSolver\BSolver.Console\obj\Release\BSolver.Console.csproj.CopyComplete
+C:\Working\Blockudoku\BSolver\BSolver.Console\obj\Release\BSolver.Console.exe
+C:\Working\Blockudoku\BSolver\BSolver.Console\obj\Release\BSolver.Console.pdb

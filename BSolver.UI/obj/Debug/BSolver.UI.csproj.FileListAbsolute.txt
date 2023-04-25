@@ -1,0 +1,13 @@
+C:\Working\Blockudoku\BSolver\BSolver.UI\bin\Debug\BSolver.UI.exe.config
+C:\Working\Blockudoku\BSolver\BSolver.UI\bin\Debug\BSolver.UI.exe
+C:\Working\Blockudoku\BSolver\BSolver.UI\bin\Debug\BSolver.UI.pdb
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Debug\BSolver.UI.csprojAssemblyReference.cache
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Debug\BSolver.UI.Form1.resources
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Debug\BSolver.UI.Properties.Resources.resources
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Debug\BSolver.UI.csproj.GenerateResource.cache
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Debug\BSolver.UI.csproj.CoreCompileInputs.cache
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Debug\BSolver.UI.exe
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Debug\BSolver.UI.pdb
+C:\Working\Blockudoku\BSolver\BSolver.UI\bin\Debug\BSolver.GameMech.dll
+C:\Working\Blockudoku\BSolver\BSolver.UI\bin\Debug\BSolver.GameMech.pdb
+C:\Working\Blockudoku\BSolver\BSolver.UI\obj\Debug\BSolver.UI.csproj.CopyComplete
